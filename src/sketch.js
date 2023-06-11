@@ -34,6 +34,7 @@ function sketch(p) {
     ballY3 = p.random(rectY,rectH);
     // W = p.width;
     // console.log(gridPoints)
+    console.log('Hello');
   }
 
   p.draw = function() {
